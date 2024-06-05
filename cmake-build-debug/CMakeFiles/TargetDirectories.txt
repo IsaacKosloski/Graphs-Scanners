@@ -1,0 +1,3 @@
+C:/Users/zaack/CLionProjects/Graphs-Scanners/cmake-build-debug/CMakeFiles/Graphs_Scanners.dir
+C:/Users/zaack/CLionProjects/Graphs-Scanners/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zaack/CLionProjects/Graphs-Scanners/cmake-build-debug/CMakeFiles/rebuild_cache.dir
